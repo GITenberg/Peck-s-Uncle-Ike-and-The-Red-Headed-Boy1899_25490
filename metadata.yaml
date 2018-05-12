@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3383
     wikipedia: http://en.wikipedia.org/wiki/George_Wilbur_Peck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25490#Peck-s-Uncle-Ike-and-The-Red-Headed-Boy1899
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-05-16'
 gutenberg_type: Text
